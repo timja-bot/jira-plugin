@@ -35,6 +35,8 @@ Jenkins.instance.pluginManager.plugins.each{
 }
 ```
 
+- debug logs for `hudson.plugins.jira` - see [here for enabling debug logs](https://www.jenkins.io/doc/book/system-administration/viewing-logs/)
+
 #### Contribute or Sponsor!
 
 We all love Open Source, but... Open Source Software depends on contributions of fellow developers.
