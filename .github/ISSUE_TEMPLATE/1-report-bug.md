@@ -13,10 +13,9 @@ Never report security issues on GitHub or other public channels (Gitter/Twitter/
 🚨 Please review the [guidelines for contributing](../blob/master/CONTRIBUTING.md) to this repository.
 
 - [ ] Jenkins version
-
 - [ ] Plugin version
-
-- [ ] OS
+- [ ] Operating System
+- [ ] Debug logs for `hudson.plugins.jira` - see https://www.jenkins.io/doc/book/system-administration/viewing-logs/
 
 <!--
 Put an `x` into the [ ] to show you have filled the information below
@@ -29,11 +28,11 @@ Describe your issue below
 
 ### Results
 
-Expected result:
+*Expected result:*
 
-`What was your expected result?`
+What was your expected result?`
 
-Actual result:
+*Actual result:*
 
 `What was the actual result?`
 
